@@ -14,19 +14,24 @@ h2 {
 h3 {
   color: #0d0dd9;
 }
+
 li {
   font-size: 18px;
 }
+
 p {
   font-size: 18px;
 }
+
 .canvas {
   border: 3px solid black;
   background-color: white;
 }
+
 #description {
   color: #7a6b54;
 }
+
 #fact {
   color: #ba6128;
 }
